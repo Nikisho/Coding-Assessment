@@ -27,7 +27,6 @@ f(3) returns [[1], [1,2], [1,2,3]]
 etc.
 
 Java Programming Test
-Kotlin can be used as an alternative to Java
 
 1. Implement (from scratch, without using Java library components) a doubly linked list (of
 integers) class which allows new integers to be added to either end of the list, any referenced
